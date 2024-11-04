@@ -3,6 +3,7 @@ import random
 
 from .cell import Cell
 
+
 class Maze():
     def __init__(self,
                  x1, y1,
